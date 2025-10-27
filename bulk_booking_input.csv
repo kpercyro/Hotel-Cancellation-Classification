@@ -1,0 +1,6 @@
+lead_time,total_nights,booking_changes,previous_cancellations,adr,total_of_special_requests,required_car_parking_spaces,market_segment,deposit_type,customer_type
+120,5,1,0,150.0,1,1,Online TA,No Deposit,Transient
+45,2,0,1,85.0,0,0,Corporate,Non Refund,Contract
+300,10,2,0,300.0,2,0,Direct,Refundable,Transient-Party
+10,1,0,0,60.0,0,0,Groups,No Deposit,Group
+250,7,3,2,220.0,0,1,Offline TA/TO,Non Refund,Transient
