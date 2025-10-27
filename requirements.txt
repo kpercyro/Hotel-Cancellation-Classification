@@ -1,0 +1,15 @@
+# Core Data Analysis and Scientific Computing
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine Learning and Preprocessing
+scikit-learn
+
+# Model Persistence (Saving/Loading Models)
+joblib
+
+# Dashboarding and Interactive Visualization
+streamlit
+plotly
